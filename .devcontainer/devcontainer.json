@@ -27,7 +27,10 @@
 				"ms-python.python",
 				"ms-toolsai.jupyter",
 				"alexcvzz.vscode-sqlite",
-				"qwtel.sqlite-viewer"
+				"qwtel.sqlite-viewer",
+				"mtxr.sqltools",
+				"mtxr.sqltools-driver-pg",
+				"mtxr.sqltools-driver-sqlite"
 			]
 		}
 	   }
