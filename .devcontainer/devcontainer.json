@@ -27,8 +27,7 @@
 				"ms-python.python",
 				"ms-toolsai.jupyter",
 				"alexcvzz.vscode-sqlite",
-				"qwtel.sqlite-viewer",
-				"shamanu4.django-intellisense"
+				"qwtel.sqlite-viewer"
 			]
 		}
 	   }
